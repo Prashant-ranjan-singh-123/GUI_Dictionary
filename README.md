@@ -1,8 +1,6 @@
 
 # Dictionary
 
-[![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGmiNe2MaQOgg/mp4-720p-30fp-crf28/0/1659245463235?e=1662112800&v=beta&t=DRx18rnmr64D3DQihykJCnLWbFO0-Xmg2CjrU7Jt6LY)
-
 It is an Online/Offline Dictionary Fully made up of python.
 
 ## 1) Online Mode 
