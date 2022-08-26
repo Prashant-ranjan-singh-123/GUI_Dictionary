@@ -1,17 +1,17 @@
 
-# Dictionary
+# Dictionary 📙📙
 
 [![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGmiNe2MaQOgg/mp4-720p-30fp-crf28/0/1659245463235?e=1662112800&v=beta&t=DRx18rnmr64D3DQihykJCnLWbFO0-Xmg2CjrU7Jt6LY)
 
 It is an Online/Offline Dictionary Fully made up of python.
 
-## 1) Online Mode 
+## 1) Online Mode 📲📲
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKuUGjVhBv_wdsVkwMScAcbbhbGZItQtWbRA&usqp=CAU)
 
 In online mode i have used Oxford API for fetching my data.
 
-## 2) Offline Mode
+## 2) Offline Mode 📃📃
 
 ![](https://pomaka.com/wp-content/uploads/2018/11/dictionaries-1200x480.jpg)
 
@@ -30,14 +30,14 @@ In online mode i have used Oxford API for fetching my data.
 | `ctrl+q` | Exiting application.  |
 
 
-## Requirement 
+## 🔧 Requirement 
 
 1) Install Dependency: ```pip install pillow```
 2) Reading/Writing Access to program.
 3) All the required files.
 4) Python 3.10 (Designed in Python 3.10)
 
-## Concepts Learned
+## Concepts Learned 👨‍🎓👨‍🎓
 
   1) GUI Concepts (Tkinter)
   2) API Concepts (Application Program Interface)
