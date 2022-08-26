@@ -1,38 +1,6 @@
 
 # Dictionary
 
-It is an Online/Offline Dictionary Fully made up of python.
-
-## 1) Online Mode 
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKuUGjVhBv_wdsVkwMScAcbbhbGZItQtWbRA&usqp=CAU)
-
-In online mode i have used Oxford API for fetching my data.
-
-## 2) Offline Mode
-
-![](https://pomaka.com/wp-content/uploads/2018/11/dictionaries-1200x480.jpg)
-
- In Offline mode we have limited 54,556 words + .json file words
-
- 
-
-## Shortcuts of Program
-
-| Shortcut     | Function                |
-| :------- | :------------------------- |
-| `ctrl+1` | Option 1 (Offline)    |
-| `ctrl+2` | Option 2 (Online)     |
-| `Enter`  | For Searching         |
-| `ctrl+h` | For opening help page |
-| `ctrl+q` | Exiting application.  |
-
-
-## Requirement 
-
-
-# Dictionary
-
 [![Watch the video](https://radartimikaonline.com/wp-content/uploads/2022/07/Manipuri-Viral-Video-Red.jpg)](https://dms.licdn.com/playlist/C4D05AQGmiNe2MaQOgg/mp4-720p-30fp-crf28/0/1659245463235?e=1662112800&v=beta&t=DRx18rnmr64D3DQihykJCnLWbFO0-Xmg2CjrU7Jt6LY)
 
 It is an Online/Offline Dictionary Fully made up of python.
